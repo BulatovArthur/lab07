@@ -1,5 +1,5 @@
 Command line:
-"travis login --github-token 0cdbf7f528f25f374bf889e9b2b2f671b1658111"
+"travis login"
 
 
    ________                                 __
@@ -26,7 +26,7 @@ Command line:
 
      There is absolutely no warranty on any results obtained from TRAVIS.
 
-  #  Running on ubuntu at Sat May 26 16:47:20 2018 (PID 51325).
+  #  Running on ubuntu at Sat May 26 16:16:57 2018 (PID 50676).
   #  Running in /home/user/BulatovArthur/workspace/projects/lab07
   #  Source code version: Nov 07 2015.
   #  Compiled at Nov 17 2015 23:12:21.
